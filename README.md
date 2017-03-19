@@ -1,6 +1,6 @@
 # 用于对话系统的中英文语料
-
-本项目收集了一些从网络中找到的用于训练中文（英文）聊天机器人的对话语料
+Datasets for Training Chatbot System
+<br>本项目收集了一些从网络中找到的用于训练中文（英文）聊天机器人的对话语料
 
 ### 公开语料
 搜集到的一些数据集如下，点击链接可以进入原始地址
@@ -20,6 +20,9 @@
 5. [小黄鸡](https://github.com/rustch3n/dgk_lost_conv/tree/master/results)
 <br>据传这就是小黄鸡的语料：xiaohuangji50w_fenciA.conv.zip （已分词） 和 xiaohuangji50w_nofenci.conv.zip （未分词）
 
+6. [白鹭时代中文问答语料](https://github.com/Samurais/egret-wenda-corpus)
+<br>由白鹭时代官方论坛问答板块10,000+ 问题中，选择被标注了“最佳答案”的纪录汇总而成。人工review raw data，给每一个问题，一个可以接受的答案。目前，语料库只包含2907个问答。([备份](./egret-wenda-corpus.zip))
+
 ### 未公开语料
 
 这部分语料，网络上有所流传，但由于我们能力所限，或者原作者并未公开，暂时未获取。只是列举出来，供以后继续搜寻。
@@ -33,3 +36,4 @@
 ### 联系
 
 [何云超](yunchaohe@gmail.com)
+weibo: [@Yunchao_He](http://weibo.com/heyunchao)
