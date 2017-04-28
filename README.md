@@ -23,6 +23,10 @@ Datasets for Training Chatbot System
 6. [白鹭时代中文问答语料](https://github.com/Samurais/egret-wenda-corpus)
 <br>由白鹭时代官方论坛问答板块10,000+ 问题中，选择被标注了“最佳答案”的纪录汇总而成。人工review raw data，给每一个问题，一个可以接受的答案。目前，语料库只包含2907个问答。([备份](./egret-wenda-corpus.zip))
 
+7. [Chat corpus repository](https://github.com/Marsan-Ma/chat_corpus)
+<br>chat corpus collection from various open sources
+<br>包括：开放字幕、英文电影字幕、中文歌词、英文推文
+
 ### 未公开语料
 
 这部分语料，网络上有所流传，但由于我们能力所限，或者原作者并未公开，暂时未获取。只是列举出来，供以后继续搜寻。
