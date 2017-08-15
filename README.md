@@ -1,43 +1,46 @@
-# ÓÃÓÚ¶Ô»°ÏµÍ³µÄÖĞÓ¢ÎÄÓïÁÏ
+# ç”¨äºå¯¹è¯ç³»ç»Ÿçš„ä¸­è‹±æ–‡è¯­æ–™
 Datasets for Training Chatbot System
-<br>±¾ÏîÄ¿ÊÕ¼¯ÁËÒ»Ğ©´ÓÍøÂçÖĞÕÒµ½µÄÓÃÓÚÑµÁ·ÖĞÎÄ£¨Ó¢ÎÄ£©ÁÄÌì»úÆ÷ÈËµÄ¶Ô»°ÓïÁÏ
+<br>æœ¬é¡¹ç›®æ”¶é›†äº†ä¸€äº›ä»ç½‘ç»œä¸­æ‰¾åˆ°çš„ç”¨äºè®­ç»ƒä¸­æ–‡ï¼ˆè‹±æ–‡ï¼‰èŠå¤©æœºå™¨äººçš„å¯¹è¯è¯­æ–™
 
-### ¹«¿ªÓïÁÏ
-ËÑ¼¯µ½µÄÒ»Ğ©Êı¾İ¼¯ÈçÏÂ£¬µã»÷Á´½Ó¿ÉÒÔ½øÈëÔ­Ê¼µØÖ·
+### å…¬å¼€è¯­æ–™
+æœé›†åˆ°çš„ä¸€äº›æ•°æ®é›†å¦‚ä¸‹ï¼Œç‚¹å‡»é“¾æ¥å¯ä»¥è¿›å…¥åŸå§‹åœ°å€
 
 1. [dgk_shooter_min.conv.zip](https://github.com/rustch3n/dgk_lost_conv)
-<br>ÖĞÎÄµçÓ°¶Ô°×ÓïÁÏ£¬ÔëÒô±È½Ï´ó£¬Ğí¶à¶Ô°×ÎÊ´ğ¹ØÏµÃ»ÓĞ¶ÔÓ¦ºÃ
+<br>ä¸­æ–‡ç”µå½±å¯¹ç™½è¯­æ–™ï¼Œå™ªéŸ³æ¯”è¾ƒå¤§ï¼Œè®¸å¤šå¯¹ç™½é—®ç­”å…³ç³»æ²¡æœ‰å¯¹åº”å¥½
 
 2. [The NUS SMS Corpus](https://github.com/kite1988/nus-sms-corpus)
-<br>°üº¬ÖĞÎÄºÍÓ¢ÎÄ¶ÌĞÅÏ¢ÓïÁÏ£¬¾İËµÊÇÊÀ½ç×î´ó¹«¿ªµÄ¶ÌÏûÏ¢ÓïÁÏ
+<br>åŒ…å«ä¸­æ–‡å’Œè‹±æ–‡çŸ­ä¿¡æ¯è¯­æ–™ï¼Œæ®è¯´æ˜¯ä¸–ç•Œæœ€å¤§å…¬å¼€çš„çŸ­æ¶ˆæ¯è¯­æ–™
 
-3. [ChatterBotÖĞÎÄ»ù±¾ÁÄÌìÓïÁÏ](https://github.com/gunthercox/ChatterBot/tree/master/chatterbot/corpus/data/chinese)
-<br>ChatterBotÁÄÌìÒıÇæÌá¹©µÄÒ»µã»ù±¾ÖĞÎÄÁÄÌìÓïÁÏ£¬Á¿ºÜÉÙ£¬µ«ÖÊÁ¿±È½Ï¸ß
+3. [ChatterBotä¸­æ–‡åŸºæœ¬èŠå¤©è¯­æ–™](https://github.com/gunthercox/ChatterBot/tree/master/chatterbot/corpus/data/chinese)
+<br>ChatterBotèŠå¤©å¼•æ“æä¾›çš„ä¸€ç‚¹åŸºæœ¬ä¸­æ–‡èŠå¤©è¯­æ–™ï¼Œé‡å¾ˆå°‘ï¼Œä½†è´¨é‡æ¯”è¾ƒé«˜
 
 4. [Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets)
-<br>ÕâÊÇËûÈËÊÕ¼¯µÄ×ÔÈ»ÓïÑÔ´¦ÀíÏà¹ØÊı¾İ¼¯£¬Ö÷Òª°üº¬Question Answering£¬Dialogue Systems£¬ Goal-Oriented Dialogue SystemsÈı²¿·Ö£¬¶¼ÊÇÓ¢ÎÄÎÄ±¾¡£¿ÉÒÔÊ¹ÓÃ»úÆ÷·­ÒëÎªÖĞÎÄ£¬¹©ÖĞÎÄ¶Ô»°Ê¹ÓÃ
+<br>è¿™æ˜¯ä»–äººæ”¶é›†çš„è‡ªç„¶è¯­è¨€å¤„ç†ç›¸å…³æ•°æ®é›†ï¼Œä¸»è¦åŒ…å«Question Answeringï¼ŒDialogue Systemsï¼Œ Goal-Oriented Dialogue Systemsä¸‰éƒ¨åˆ†ï¼Œéƒ½æ˜¯è‹±æ–‡æ–‡æœ¬ã€‚å¯ä»¥ä½¿ç”¨æœºå™¨ç¿»è¯‘ä¸ºä¸­æ–‡ï¼Œä¾›ä¸­æ–‡å¯¹è¯ä½¿ç”¨
 
-5. [Ğ¡»Æ¼¦](https://github.com/rustch3n/dgk_lost_conv/tree/master/results)
-<br>¾İ´«Õâ¾ÍÊÇĞ¡»Æ¼¦µÄÓïÁÏ£ºxiaohuangji50w_fenciA.conv.zip £¨ÒÑ·Ö´Ê£© ºÍ xiaohuangji50w_nofenci.conv.zip £¨Î´·Ö´Ê£©
+5. [å°é»„é¸¡](https://github.com/rustch3n/dgk_lost_conv/tree/master/results)
+<br>æ®ä¼ è¿™å°±æ˜¯å°é»„é¸¡çš„è¯­æ–™ï¼šxiaohuangji50w_fenciA.conv.zip ï¼ˆå·²åˆ†è¯ï¼‰ å’Œ xiaohuangji50w_nofenci.conv.zip ï¼ˆæœªåˆ†è¯ï¼‰
 
-6. [°×ğØÊ±´úÖĞÎÄÎÊ´ğÓïÁÏ](https://github.com/Samurais/egret-wenda-corpus)
-<br>ÓÉ°×ğØÊ±´ú¹Ù·½ÂÛÌ³ÎÊ´ğ°å¿é10,000+ ÎÊÌâÖĞ£¬Ñ¡Ôñ±»±ê×¢ÁË¡°×î¼Ñ´ğ°¸¡±µÄ¼ÍÂ¼»ã×Ü¶ø³É¡£ÈË¹¤review raw data£¬¸øÃ¿Ò»¸öÎÊÌâ£¬Ò»¸ö¿ÉÒÔ½ÓÊÜµÄ´ğ°¸¡£Ä¿Ç°£¬ÓïÁÏ¿âÖ»°üº¬2907¸öÎÊ´ğ¡£([±¸·İ](./egret-wenda-corpus.zip))
+6. [ç™½é¹­æ—¶ä»£ä¸­æ–‡é—®ç­”è¯­æ–™](https://github.com/Samurais/egret-wenda-corpus)
+<br>ç”±ç™½é¹­æ—¶ä»£å®˜æ–¹è®ºå›é—®ç­”æ¿å—10,000+ é—®é¢˜ä¸­ï¼Œé€‰æ‹©è¢«æ ‡æ³¨äº†â€œæœ€ä½³ç­”æ¡ˆâ€çš„çºªå½•æ±‡æ€»è€Œæˆã€‚äººå·¥review raw dataï¼Œç»™æ¯ä¸€ä¸ªé—®é¢˜ï¼Œä¸€ä¸ªå¯ä»¥æ¥å—çš„ç­”æ¡ˆã€‚ç›®å‰ï¼Œè¯­æ–™åº“åªåŒ…å«2907ä¸ªé—®ç­”ã€‚([å¤‡ä»½](./egret-wenda-corpus.zip))
 
 7. [Chat corpus repository](https://github.com/Marsan-Ma/chat_corpus)
 <br>chat corpus collection from various open sources
-<br>°üÀ¨£º¿ª·Å×ÖÄ»¡¢Ó¢ÎÄµçÓ°×ÖÄ»¡¢ÖĞÎÄ¸è´Ê¡¢Ó¢ÎÄÍÆÎÄ
+<br>åŒ…æ‹¬ï¼šå¼€æ”¾å­—å¹•ã€è‹±æ–‡ç”µå½±å­—å¹•ã€ä¸­æ–‡æ­Œè¯ã€è‹±æ–‡æ¨æ–‡
 
-### Î´¹«¿ªÓïÁÏ
+8. [ä¿é™©è¡Œä¸šQAè¯­æ–™åº“](https://github.com/Samurais/insuranceqa-corpus-zh)
+<br>é€šè¿‡ç¿»è¯‘ [insuranceQA](https://github.com/shuzi/insuranceQA)äº§ç”Ÿçš„æ•°æ®é›†ã€‚train_dataå«æœ‰é—®é¢˜12,889æ¡ï¼Œæ•°æ® 141779æ¡ï¼Œæ­£ä¾‹ï¼šè´Ÿä¾‹ = 1:10ï¼› test_dataå«æœ‰é—®é¢˜2,000æ¡ï¼Œæ•°æ® 22000æ¡ï¼Œæ­£ä¾‹ï¼šè´Ÿä¾‹ = 1:10ï¼›valid_dataå«æœ‰é—®é¢˜2,000æ¡ï¼Œæ•°æ® 22000æ¡ï¼Œæ­£ä¾‹ï¼šè´Ÿä¾‹ = 1:10
 
-Õâ²¿·ÖÓïÁÏ£¬ÍøÂçÉÏÓĞËùÁ÷´«£¬µ«ÓÉÓÚÎÒÃÇÄÜÁ¦ËùÏŞ£¬»òÕßÔ­×÷Õß²¢Î´¹«¿ª£¬ÔİÊ±Î´»ñÈ¡¡£Ö»ÊÇÁĞ¾Ù³öÀ´£¬¹©ÒÔºó¼ÌĞøËÑÑ°¡£
+### æœªå…¬å¼€è¯­æ–™
 
-1. Î¢ÈíĞ¡±ù
+è¿™éƒ¨åˆ†è¯­æ–™ï¼Œç½‘ç»œä¸Šæœ‰æ‰€æµä¼ ï¼Œä½†ç”±äºæˆ‘ä»¬èƒ½åŠ›æ‰€é™ï¼Œæˆ–è€…åŸä½œè€…å¹¶æœªå…¬å¼€ï¼Œæš‚æ—¶æœªè·å–ã€‚åªæ˜¯åˆ—ä¸¾å‡ºæ¥ï¼Œä¾›ä»¥åç»§ç»­æœå¯»ã€‚
 
-### °æÈ¨
+1. å¾®è½¯å°å†°
 
-ËùÓĞÔ­Ê¼ÓïÁÏ¹éÔ­×÷ÕßËùÓĞ
+### ç‰ˆæƒ
 
-### ÁªÏµ
+æ‰€æœ‰åŸå§‹è¯­æ–™å½’åŸä½œè€…æ‰€æœ‰
 
-[ºÎÔÆ³¬](yunchaohe@gmail.com)
-weibo: [@Yunchao_He](http://weibo.com/heyunchao)
+### è”ç³»
+
+[ä½•äº‘è¶…](yunchaohe@gmail.com)
+<br>weibo: [@Yunchao_He](http://weibo.com/heyunchao)
