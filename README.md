@@ -11,7 +11,7 @@ Datasets for Training Chatbot System
 2. [The NUS SMS Corpus](https://github.com/kite1988/nus-sms-corpus)
 <br>包含中文和英文短信息语料，据说是世界最大公开的短消息语料
 
-3. [ChatterBot中文基本聊天语料](https://github.com/gunthercox/ChatterBot/tree/master/chatterbot/corpus/data/chinese)
+3. [ChatterBot中文基本聊天语料](https://github.com/gunthercox/chatterbot-corpus/tree/master/chatterbot_corpus/data)
 <br>ChatterBot聊天引擎提供的一点基本中文聊天语料，量很少，但质量比较高
 
 4. [Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets)
