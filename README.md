@@ -30,6 +30,9 @@ Datasets for Training Chatbot System
 8. [保险行业QA语料库](https://github.com/Samurais/insuranceqa-corpus-zh)
 <br>通过翻译 [insuranceQA](https://github.com/shuzi/insuranceQA)产生的数据集。train_data含有问题12,889条，数据 141779条，正例：负例 = 1:10； test_data含有问题2,000条，数据 22000条，正例：负例 = 1:10；valid_data含有问题2,000条，数据 22000条，正例：负例 = 1:10
 
+9. [Reddit英文语料库](https://dialogfeedback.github.io/)
+<br>包含近亿条数据，用来训练回复生成或排序。
+
 ### 未公开语料
 
 这部分语料，网络上有所流传，但由于我们能力所限，或者原作者并未公开，暂时未获取。只是列举出来，供以后继续搜寻。
